@@ -45,8 +45,8 @@
             <version>3.0.3</version>
         </dependency>
         <dependency>
-            <groupId>commons-fileupload</groupId>
-            <artifactId>commons-fileupload</artifactId>
+            <groupId>com.alibabacloud.commons-fileupload</groupId>
+            <artifactId>com.alibabacloud.commons-fileupload</artifactId>
             <version>1.3.3</version>
         </dependency>
         <dependency>
@@ -57,7 +57,7 @@
         </dependency>
         <!--z_cloud2_commons-->
         <dependency>
-            <groupId>com.cloud2.commons</groupId>
+            <groupId>com.cloud2.com.alibabacloud.commons</groupId>
             <artifactId>z_cloud2_commons</artifactId>
             <version>${z_cloud2_commons.version}</version>
         </dependency>
